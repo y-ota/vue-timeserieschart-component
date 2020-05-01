@@ -20,5 +20,5 @@ https://y-ota.github.io/vue-timeserieschart-component/
 preparing...
 
 ## License
-[MIT License]()
+[MIT License](https://github.com/y-ota/vue-timeserieschart-component/blob/master/LICENSE)
 
