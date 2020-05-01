@@ -3,7 +3,7 @@ A time series chart component using vue-chartjs and TypeScript.
 
 ## Demo
 
-## Requirement
+## Requirements
 * vue-cli
 * TypeScript
 * vue-chartjs
@@ -12,6 +12,7 @@ A time series chart component using vue-chartjs and TypeScript.
 
 ## Setup & Debug
 `npm install`
+
 `npm run serve`
 
 ## Component
