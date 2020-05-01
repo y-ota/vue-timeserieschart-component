@@ -1,4 +1,4 @@
-# Time serieschart component
+# A time series chart component
 A time series chart component using vue-chartjs and TypeScript.
 
 ## Demo
