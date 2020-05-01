@@ -92,6 +92,9 @@ export default class App extends Vue {
     for (let i = 1; i <= 10; i++) {
       this.allData.push({ label: "Data" + i, data: [] });
     }
+
+
+    this.start();
   }
 
   /**
