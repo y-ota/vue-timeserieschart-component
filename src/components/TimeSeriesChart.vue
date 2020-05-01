@@ -104,8 +104,6 @@ export default class TimeSeriesChart extends Mixins(
           enabled: true,
           drag: false,
           mode: (event: any) => {
-            const c:any = window;
-            c.chart = event;
             return "xy";
           },
           speed: 0.1,

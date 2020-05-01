@@ -132,6 +132,7 @@ export default class App extends Vue {
 }
 .button-area {
   width: fit-content;
+  flex-direction: row;
   margin: auto;
   button {
     margin-top: 10px;
