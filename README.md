@@ -2,6 +2,7 @@
 A time series chart component using vue-chartjs and TypeScript.
 
 ## Demo
+https://y-ota.github.io/vue-timeserieschart-component/
 
 ## Requirements
 * vue-cli
@@ -15,8 +16,8 @@ A time series chart component using vue-chartjs and TypeScript.
 
 `npm run serve`
 
-## Component
-
+## Component I/F
+preparing...
 
 ## License
 [MIT License]()
