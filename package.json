@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@types/chart.js": "^2.9.19",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "chartjs-plugin-colorschemes": "^0.4.0",
     "chartjs-plugin-zoom": "^0.7.5",
     "core-js": "^3.6.4",
